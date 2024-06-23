@@ -18,7 +18,7 @@ font-size: 15px;
 body {
     font-family: 'Outfit', sans-serif;
     width: 1440px;
-    height: 1080px;
+    height: 100vh;
     background-color: var(--Light-gray);
     display: flex;
     justify-content: center;
